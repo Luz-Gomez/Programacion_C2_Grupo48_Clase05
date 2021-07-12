@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T21:55:47.047Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="MG_ZHFG-C436f7bvs8qQ" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-12T22:08:05.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="M5LhzGKRE_IeRowX0Mxz" version="14.8.4" type="github">
   <diagram id="IGpOKl3QkhKzm34cFzGY" name="Page-1">
     <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="r26-GeC86uBAApJ16SBH-26" value="Lineas" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="234" width="160" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="r26-GeC86uBAApJ16SBH-27" value="- identificador Integer&#xa;- longitud Long&#xa;- coordenadas(x,y) Arreglo&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="r26-GeC86uBAApJ16SBH-26" vertex="1">
+        <mxCell id="r26-GeC86uBAApJ16SBH-27" value="- identificador Integer&#xa;- longitud Long&#xa;- coordenadas(x,y) &#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="r26-GeC86uBAApJ16SBH-26" vertex="1">
           <mxGeometry y="26" width="160" height="54" as="geometry" />
         </mxCell>
         <mxCell id="r26-GeC86uBAApJ16SBH-28" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="r26-GeC86uBAApJ16SBH-26" vertex="1">
